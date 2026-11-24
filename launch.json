@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+        "type": "java",
+        "name": "HabitBuilder",
+        "request": "launch",
+        "mainClass": "HabitBuilder",
+        "projectName": "HealthHabitBuilder_a8530152"
+    },
+    {
+        "type": "java",
+        "name": "Run Habit Builder",
+        "request": "launch",
+        "mainClass": "HabitBuilder",
+        "projectName": "HealthHabitBuilder",
+        "classPaths": [
+            "$Auto"
+        ]
+    }
+]
+}
